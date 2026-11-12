@@ -243,38 +243,4 @@ Exploring the technologies, methodologies and engineering principles behind buil
 
 <br/>
 
-<!-- ==================== PRODUCT BUILDING CAPABILITIES ==================== -->
 
-<table width="100%" border="1" cellpadding="15" cellspacing="0">
-<tr>
-<td>
-
-<h2>🚀 How I Can Contribute to Building Products</h2>
-
-I enjoy working at the intersection of business, users and technology. My combined academic and professional experience helps me contribute across different stages of product development.
-
-<h3>🔍 01. Product Discovery & Strategy</h3>
-
-Translate business challenges into product requirements, user stories, acceptance criteria and actionable development plans.
-
-<h3>🎨 02. User Experience & Design Thinking</h3>
-
-Apply HCI, user-centred design and data visualisation principles to create intuitive and meaningful product experiences.
-
-<h3>🤖 03. AI & Intelligent Product Features</h3>
-
-Explore and prototype AI-powered features using Machine Learning, LLMs, Generative AI and agent-based workflows.
-
-<h3>⚙️ 04. Data Engineering & Technical Integration</h3>
-
-Build data workflows, connect APIs, integrate automation and contribute to cloud-based application architectures.
-
-<h3>📦 05. Product Delivery & Collaboration</h3>
-
-Bridge business stakeholders, designers and developers through Agile project management, cross-functional coordination and iterative delivery.
-
-</td>
-</tr>
-</table>
-
-<br/>
