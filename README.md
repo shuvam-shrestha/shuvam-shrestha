@@ -36,7 +36,7 @@ I'm a multidisciplinary professional exploring how **AI, data and intelligent au
 
 **Data & Visualization**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=powerbi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=powerbi&theme=light" />
 </p>
 
 **Cloud & Infrastructure**
