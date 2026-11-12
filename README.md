@@ -58,16 +58,16 @@ I'm a multidisciplinary professional exploring how <b>Artificial Intelligence, D
 <h3>🤖 AI & Machine Learning</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ai,pytorch,&theme=dark" />
-  <img src="https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=flat-square&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agents-0D9488?style=flat-square&logo=probot&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=flat-square&logo=googlegemini&logoColor=white" /> -->
+  <!-- <img src="https://img.shields.io/badge/AI_Agents-0D9488?style=flat-square&logo=probot&logoColor=white" /> -->
 </p>
 
 <h3>⚙️ Automation & Development</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,nextjs,github,fastapi&theme=dark" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/APIs-009688?style=flat-square&logo=postman&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIs-009688?style=flat-square&logo=postman&logoColor=white" /> -->
 </p>
 
 <h3>📊 Data & Visualization</h3>
