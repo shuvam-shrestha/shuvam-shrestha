@@ -147,17 +147,99 @@ An intelligent analytics workflow combining SQL, LLMs and multi-agent orchestrat
 
 <br/>
 
-<!-- ==================== GITHUB STATISTICS ==================== -->
+
+<!-- ==================== ACADEMIC & TECHNICAL FOUNDATIONS ==================== -->
 
 <table width="100%" border="1" cellpadding="15" cellspacing="0">
 <tr>
-<td align="center">
+<td colspan="2">
 
-<h2>📊 GitHub Statistics</h2>
+<h2>🧩 Academic & Technical Foundations</h2>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+Exploring the technologies, methodologies and engineering principles behind building intelligent, scalable and user-centred products.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" />
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🎨 HCI & User Experience</h3>
+
+<img src="https://cdn.simpleicons.org/figma/F24E1E" height="28" />
+
+- Human-Computer Interaction
+- User-Centred Design
+- Information Visualisation
+- Human-AI Interaction
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🧠 AI & Machine Learning</h3>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
+
+- Machine Learning
+- Deep Learning & Transfer Learning
+- NLP & Image Recognition
+- Generative AI & LLMs
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>⚙️ Data Engineering & MLOps</h3>
+
+<img src="https://skillicons.dev/icons?i=docker,aws,git&theme=dark" />
+
+- Data Modelling & Engineering
+- ETL & Data Pipelines
+- Machine Learning Operations
+- Cloud-Based Workflows
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🌐 IoT & Network Intelligence</h3>
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
+
+- Internet of Things
+- Digital Twin Concepts
+- Network Intelligence
+- Wireless Access Networks
+- In-Network Computing
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🔗 Blockchain & Systems</h3>
+
+<img src="https://skillicons.dev/icons?i=solidity,docker,git&theme=dark" />
+
+- Blockchain & Smart Contracts
+- Bitcoin & Off-Chain Payments
+- Service-Oriented Computing
+- API & System Integration
+
+</td>
+<td width="50%" valign="top">
+
+<h3>📈 Business & Product Management</h3>
+
+<img src="https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Business_Analysis-00897B?style=flat-square&logo=googlesheets&logoColor=white" />
+
+- Business Modelling & ICT
+- Requirements Engineering
+- Agile & Scrum Methodologies
+- Product & Project Delivery
 
 </td>
 </tr>
@@ -165,46 +247,38 @@ An intelligent analytics workflow combining SQL, LLMs and multi-agent orchestrat
 
 <br/>
 
-<!-- ==================== CONTRIBUTION ACTIVITY ==================== -->
+<!-- ==================== PRODUCT BUILDING CAPABILITIES ==================== -->
 
 <table width="100%" border="1" cellpadding="15" cellspacing="0">
 <tr>
-<td align="center">
+<td>
 
-<h2>🐍 Contribution Activity</h2>
+<h2>🚀 How I Can Contribute to Building Products</h2>
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake" />
+I enjoy working at the intersection of business, users and technology. My combined academic and professional experience helps me contribute across different stages of product development.
+
+<h3>🔍 01. Product Discovery & Strategy</h3>
+
+Translate business challenges into product requirements, user stories, acceptance criteria and actionable development plans.
+
+<h3>🎨 02. User Experience & Design Thinking</h3>
+
+Apply HCI, user-centred design and data visualisation principles to create intuitive and meaningful product experiences.
+
+<h3>🤖 03. AI & Intelligent Product Features</h3>
+
+Explore and prototype AI-powered features using Machine Learning, LLMs, Generative AI and agent-based workflows.
+
+<h3>⚙️ 04. Data Engineering & Technical Integration</h3>
+
+Build data workflows, connect APIs, integrate automation and contribute to cloud-based application architectures.
+
+<h3>📦 05. Product Delivery & Collaboration</h3>
+
+Bridge business stakeholders, designers and developers through Agile project management, cross-functional coordination and iterative delivery.
 
 </td>
 </tr>
 </table>
 
 <br/>
-
-<!-- ==================== LET'S CONNECT ==================== -->
-
-<table width="100%" border="0" cellpadding="20" cellspacing="0">
-<tr>
-<td align="center" bgcolor="#101827">
-
-<h2>🤝 LET'S CONNECT</h2>
-
-<a href="https://www.shuvamshrestha.com.np/">
-  <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" />
-</a>
-
-<a href="https://linkedin.com/in/shuvam-shrestha/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:shuvam.shrestha@telecom-sudparis.eu">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<i>Always curious. Always building. Always learning. 🚀</i>
-
-</td>
-</tr>
-</table>
