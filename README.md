@@ -18,15 +18,15 @@ I'm a multidisciplinary professional exploring how **AI, data and intelligent au
 
 ### 🛠️ Technology & Tools
 
-**Programming & Data:** Python · SQL · Pandas · Scikit-learn
+**Programming & Data:** Python · Pandas · Scikit-learn · Javascript · SQL · MongoDB · PostgreSQL
 
-**AI & Machine Learning:** Generative AI · LLMs · AI Agents · RAG
+**AI & Machine Learning:** Generative AI · LLMs · AI Agents
 
-**Automation & Development:** n8n · Streamlit · Flask · APIs · Git
+**Automation & Development:** n8n · APIs · Git · NextJs · Github
 
-**Data & Visualization:** Power BI · Tableau · Plotly
+**Data & Visualization:** Power BI · Tableau · Streamlit
 
-**Cloud & Infrastructure:** AWS · Docker · Supabase
+**Cloud & Infrastructure:** AWS · Docker · Supabase · Firebase
 
 ### 🚀 Featured Projects
 
