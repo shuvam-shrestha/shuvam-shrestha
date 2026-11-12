@@ -1,20 +1,45 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DF751&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Shuvam+SHRESTHA)](https://git.io/typing-svg)
 
-### Bridging Business, Data Science & Artificial Intelligence 🚀
 
-🎓 MSc Data Science & Network Intelligence @ Télécom SudParis | Institut Polytechnique de Paris  
-🌏 MSc Information Management @ Asian Institute of Technology  
-💼 MBA in Finance | IT Project Delivery Background
+<div align="center">
 
-I'm a multidisciplinary professional exploring how **AI, data and intelligent automation** can solve real-world business problems. My journey spans financial services, business development, IT project management and applied data science.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Bridging+Business%2C+Data+Science+%26+AI;Building+Intelligent+AI+Agents;Exploring+Data-Driven+Innovation;Turning+Ideas+Into+Technology+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 
-### 🔭 What I'm Exploring
+</div>
+
+<h3>🎓 Academic Background</h3>
+
+- 🎓 **MSc Data Science & Network Intelligence** — Télécom SudParis | Institut Polytechnique de Paris
+- 🌏 **MSc Information Management** — Asian Institute of Technology
+- 💼 **MBA in Finance** — Business, Finance & IT Project Delivery Background
+
+<p>
+  I'm a multidisciplinary professional exploring how <b>Artificial Intelligence, Data Science and Intelligent Automation</b> can solve real-world business problems. My journey spans financial services, business development, IT project management and applied data science.
+</p>
+
+<h3>🔭 What I'm Exploring</h3>
+
+<div align="left">
+
+  <img src="https://img.shields.io/badge/AI_Agents-Exploring-8A2BE2?style=flat-square&logo=probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intelligent_Automation-Building-00A98F?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Science-Learning-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-Experimenting-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT_&_Digital_Twins-Developing-2496ED?style=flat-square&logo=arduino&logoColor=white" />
+
+</div>
 
 - 🤖 Building AI agents and intelligent automation workflows
 - 📊 Developing data-driven applications and decision-support systems
 - 🧠 Exploring Machine Learning, Generative AI and LLM applications
 - 🌐 Experimenting with IoT, Digital Twins and connected systems
 - 💡 Turning business challenges into technology-driven solutions
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=7D8590&center=true&vCenter=true&width=650&lines=Always+curious.+Always+building.+Always+learning.+%F0%9F%9A%80" alt="Closing typing animation" />
+
+</div>
 
 
 ### 🛠️ Technology & Tools
