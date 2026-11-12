@@ -19,27 +19,29 @@ I'm a multidisciplinary professional exploring how **AI, data and intelligent au
 
 ### 🛠️ Technology & Tools
 
-**Programming & Data**
+<h3>💻 Programming & Data</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,mongodb,postgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,js,mongodb,postgres&theme=dark" />
 </p>
 
-**AI & Machine Learning**
+<h3>🤖 AI & Machine Learning</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ai,sklearn,pytorch,tensorflow&theme=dark" />
 </p>
 
-**Automation & Development**
+<h3>⚙️ Automation & Development</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=n8n,fastapi,git,nextjs,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi,git,nextjs,github&theme=dark" />
 </p>
 
-**Data & Visualization**
+<h3>📊 Data & Visualization</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=powerbi,tableau,streamlit&theme=dark" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-**Cloud & Infrastructure**
+<h3>☁️ Cloud & Infrastructure</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,docker,supabase,firebase&theme=dark" />
 </p>
