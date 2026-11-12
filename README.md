@@ -204,7 +204,7 @@ Exploring the technologies, methodologies and engineering principles behind buil
 
 <h3>🌐 IoT & Network Intelligence</h3>
 
-<img src="https://skillicons.dev/icons?i=arduino &theme=dark" />
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark" />
 
 - Internet of Things
 - Digital Twin Concepts
