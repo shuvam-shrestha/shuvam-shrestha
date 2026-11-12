@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shuvam Shrestha
+# 👋 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DF751&width=435&lines=Hi%2C+I'm+Shuvam+SHRESTHA)](https://git.io/typing-svg)
 
 ### Bridging Business, Data Science & Artificial Intelligence 🚀
 
