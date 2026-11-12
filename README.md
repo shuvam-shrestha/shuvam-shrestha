@@ -29,7 +29,7 @@ I'm a multidisciplinary professional exploring how <b>Artificial Intelligence, D
 
 🌏 **MSc Information Management** — Asian Institute of Technology
 
-💼 **MBA in Finance** — Business, Finance & IT Project Delivery Background
+💼 **MBA in Finance** — Business, Finance & Marketing 
 
 <h3>🔭 What I'm Exploring</h3>
 
@@ -39,6 +39,7 @@ I'm a multidisciplinary professional exploring how <b>Artificial Intelligence, D
 - 🌐 Experimenting with IoT, Digital Twins and connected systems
 - 💡 Turning business challenges into technology-driven solutions
 
+<br/>
 </td>
 </tr>
 </table>
@@ -103,7 +104,7 @@ Data-driven credit risk analysis and decision-support dashboard for Buy Now, Pay
 
 **Focus:** Credit Analytics · Machine Learning · PowerBI
 
-[View Project →](YOUR_BNPL_REPOSITORY_LINK)
+<!-- [View Project →](YOUR_BNPL_REPOSITORY_LINK) -->
 
 </td>
 <td width="50%" valign="top">
@@ -114,7 +115,7 @@ IoT-based monitoring and alerting concept for Glacial Lake Outburst Flood risks,
 
 **Focus:** IoT · MQTT · InfluxDB · n8n
 
-[View Project →](YOUR_GLOF_REPOSITORY_LINK)
+<!-- [View Project →](YOUR_BNPL_REPOSITORY_LINK) -->
 
 </td>
 </tr>
@@ -127,7 +128,7 @@ AI-powered content analysis workflow for topic classification, audience insights
 
 **Focus:** AI Agents · LLMs · n8n · Real Time Dashboard
 
-[View Project →](YOUR_YOUTUBE_AGENT_REPOSITORY_LINK)
+<!-- [View Project →](YOUR_BNPL_REPOSITORY_LINK) -->
 
 </td>
 <td width="50%" valign="top">
@@ -138,7 +139,7 @@ An intelligent analytics workflow combining SQL, LLMs and multi-agent orchestrat
 
 **Focus:** Generative AI · SQL · AI Agents · Automation
 
-[View Project →](YOUR_AI_ANALYTICS_REPOSITORY_LINK)
+<!-- [View Project →](YOUR_BNPL_REPOSITORY_LINK) -->
 
 </td>
 </tr>
@@ -203,7 +204,7 @@ Exploring the technologies, methodologies and engineering principles behind buil
 
 <h3>🌐 IoT & Network Intelligence</h3>
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=arduino &theme=dark" />
 
 - Internet of Things
 - Digital Twin Concepts
@@ -217,7 +218,7 @@ Exploring the technologies, methodologies and engineering principles behind buil
 
 <h3>🔗 Blockchain & Systems</h3>
 
-<img src="https://skillicons.dev/icons?i=solidity,docker,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,git&theme=dark" />
 
 - Blockchain & Smart Contracts
 - Bitcoin & Off-Chain Payments
