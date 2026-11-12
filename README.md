@@ -45,42 +45,57 @@ I'm a multidisciplinary professional exploring how <b>Artificial Intelligence, D
 
 <br/>
 
+
 <!-- ==================== TECHNOLOGY & TOOLS ==================== -->
 
 <h2>🛠️ Technology & Tools</h2>
 
+<!-- Programming & Data -->
 <h3>💻 Programming & Data</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,mongodb,postgres&theme=dark" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://api.iconify.design/logos/python.svg" height="45" />
+  <img src="https://api.iconify.design/logos/javascript.svg" height="45" />
+  <img src="https://api.iconify.design/logos/mongodb-icon.svg" height="45" />
+  <img src="https://api.iconify.design/logos/postgresql.svg" height="45" />
+  <img src="https://api.iconify.design/logos/pandas.svg" height="45" />
+  <img src="https://api.iconify.design/logos/scikit-learn.svg" height="45" />
 </p>
 
+<!-- AI & Machine Learning -->
 <h3>🤖 AI & Machine Learning</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ai,pytorch,tensorflow&theme=dark" />
-  <img src="https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=flat-square&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agents-0D9488?style=flat-square&logo=probot&logoColor=white" />
+  <img src="https://api.iconify.design/logos/openai-icon.svg" height="45" />
+  <img src="https://api.iconify.design/logos/google-gemini.svg" height="45" />
+  <img src="https://api.iconify.design/logos/pytorch-icon.svg" height="45" />
+  <img src="https://api.iconify.design/logos/tensorflow.svg" height="45" />
 </p>
 
+<!-- Automation & Development -->
 <h3>⚙️ Automation & Development</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,nextjs,github,fastapi&theme=dark" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/APIs-009688?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://api.iconify.design/logos/n8n.svg" height="45" />
+  <img src="https://api.iconify.design/logos/git-icon.svg" height="45" />
+  <img src="https://api.iconify.design/logos/nextjs-icon.svg" height="45" />
+  <img src="https://api.iconify.design/logos/github-icon.svg" height="45" />
+  <img src="https://api.iconify.design/logos/fastapi-icon.svg" height="45" />
+  <img src="https://api.iconify.design/logos/postman-icon.svg" height="45" />
 </p>
 
+<!-- Data & Visualization -->
 <h3>📊 Data & Visualization</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://api.iconify.design/logos/microsoft-power-bi.svg" height="45" />
+  <img src="https://api.iconify.design/logos/tableau-icon.svg" height="45" />
+  <img src="https://api.iconify.design/logos/streamlit.svg" height="45" />
 </p>
 
+<!-- Cloud & Infrastructure -->
 <h3>☁️ Cloud & Infrastructure</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,supabase,firebase&theme=dark" />
+  <img src="https://api.iconify.design/logos/aws.svg" height="45" />
+  <img src="https://api.iconify.design/logos/docker-icon.svg" height="45" />
+  <img src="https://api.iconify.design/logos/supabase-icon.svg" height="45" />
+  <img src="https://api.iconify.design/logos/firebase.svg" height="45" />
 </p>
 
 <br/>
